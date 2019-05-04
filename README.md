@@ -1,4 +1,4 @@
-# Krokomer-android-app
+# Krokomer
 Vytvorte krokomer s nasledovnými funkcionalitami:
 
 sledovanie krokov v rámci dňa (10 bodov)
