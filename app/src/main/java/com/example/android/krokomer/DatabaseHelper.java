@@ -12,8 +12,8 @@ import java.util.List;
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 
-    private static final int DATABASE_VERSION = 5;
-    private static final String DATABASE_NAME = "StepCounter5.db";
+    private static final int DATABASE_VERSION = 7;
+    private static final String DATABASE_NAME = "StepCounter7.db";
 
     public DatabaseHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -91,8 +91,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         db.update(
                 MyContrast.Steps.TABLE_NAME,
                 values,
-                MyContrast.Steps.COLUMN_ID + "= ?",
-                new String[]{"" + s.getID()});
+                MyContrast.Steps.COLUMN_DATUM + "= ?",
+                new String[]{"" + s.getDatum()});
         db.close();
     }
 
