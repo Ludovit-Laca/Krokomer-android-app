@@ -1,4 +1,5 @@
 # Krokomer
+Aplikácia ktorá na základe monitorovania pohybu používateľa odhaduje počet krokov vykonaných počas chôdze.<br />
 Vytvorte krokomer s nasledovnými funkcionalitami:
 
 sledovanie krokov v rámci dňa (10 bodov)<br/>
