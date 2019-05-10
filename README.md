@@ -8,3 +8,5 @@ grafické zobrazenie (5 bodov)<br/>
 prepočet počtu krokov na km (prípadne marketingové kcal) (1 bod)<br/>
 štatistiky vo forme grafov (10 bodov)<br/>
 dosahovanie cieľov (pozri Samsung Health (5 bodov)<br/>
+
+Made by Ľudovít Laca
