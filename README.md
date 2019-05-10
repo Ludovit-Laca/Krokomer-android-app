@@ -10,4 +10,5 @@ prepočet počtu krokov na km (prípadne marketingové kcal) (1 bod)<br/>
 štatistiky vo forme grafov (10 bodov)<br/>
 dosahovanie cieľov (pozri Samsung Health (5 bodov)<br/>
 
+Projekt v rámci predmetu Programovanie aplikácií so senzormi 2019. 
 Made by Ľudovít Laca
